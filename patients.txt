@@ -1,0 +1,17 @@
+0fcbc1dc,Saif,17,999999,saifbin8484@gmail.com,choice pd
+e6bf8a24,vihaan,17,999888,vihan@gmail.com,kakand
+ca23da35,hari,19,777787788,hari@gmail.com,sfs
+4ce0180f,kris,17,666666666,kris@gmail.com,sfs12
+5,harij,18,777777778,harijayram@gmail.com,dlf
+6,Allen,20,55555555,allenvt@gmail.com,wayanad
+7,ethan,18,9947367429,ethanlevin@gmail.com,kochi, kaloor, sfs
+8,farhan,20,98884743,farhanaktar@gmail.com,kerala, kochi, edappally, skyline
+9,philpot,55,911,philpoteducation@gmail.com,123 Wayanad Lane, Wayanad
+10|ethanlevin|18|9922877999|ethalevi@gmail.com|kaloor stadium
+11|harijayra|18|1234567890|harinewnumber@gmail.com|kakanad dlf
+12,harijik,19,1234567888,hari,12345 villa
+13,kent,20,1234567899,asdfgh@gmail.com,kent hyde park
+14,philp,40,1234567777,philp@gmail.com,sn junction
+15,bifaan,19,1234566666,viguji@suju.com,kakand dlf
+16,gladsonpowehouse,14,1234567880,glad.sn@gmail.com,Thri[unithura
+17,mehdi,33,0987654321,mehds@gmail.com,edapally toll

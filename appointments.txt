@@ -1,0 +1,14 @@
+Doctor B,0fcbc1dc,20 01 2026
+Doctor F,e6bf8a24,26 01 2026
+Doctor H,ca23da35,26 01 2026
+Doctor F,e6bf8a24,01 02 2026
+Doctor H,e6bf8a24,01 02 2026
+4ce0180f,Doctor D,02 02 2026
+harij,Doctor E,05 02 2026
+6,Doctor H,20 02 2026
+8,Doctor F,02 02 2026
+9,Doctor E,3-2-2026
+10,Doctor H,5 02 2026
+11,Doctor H,06 02 2026
+16,Doctor I,03-02-2026,22:30
+17,Doctor I,03-02-2026,21:00

@@ -1,0 +1,28 @@
+Doctor A
+Doctor B
+Doctor C
+Doctor D
+Doctor E,unavailable
+Doctor G
+Doctor I
+Doctor J,unavailable
+Doctor K
+Doctor L,unavailable
+Doctor M
+Doctor N
+Doctor O
+Doctor P
+Doctor Q
+Doctor R
+Doctor S
+Doctor T,unavailable
+Doctor U
+Doctor V
+Doctor W
+Doctor X
+Doctor Y
+Doctor Z
+,available
+,available
+,available
+Doctor L,available
